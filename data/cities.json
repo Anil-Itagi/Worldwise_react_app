@@ -1,0 +1,76 @@
+{
+  "cities": [
+    {
+      "id": "0acb",
+      "cityName": "Belagavi",
+      "country": "India",
+      "emoji": "IN",
+      "date": "2024-10-12T17:09:29.010Z",
+      "notes": "Best place ",
+      "position": {
+        "lat": "15.917173784537226",
+        "lng": "74.54332653291209"
+      }
+    },
+    {
+      "id": "cb86",
+      "cityName": "Hubli",
+      "country": "India",
+      "emoji": "IN",
+      "date": "2024-10-12T17:09:43.953Z",
+      "notes": "we enjoy it ",
+      "position": {
+        "lat": "15.309835889725834",
+        "lng": "75.15090311639312"
+      }
+    },
+    {
+      "id": "4a89",
+      "cityName": "Davangere",
+      "country": "India",
+      "emoji": "IN",
+      "date": "2024-10-12T17:10:07.780Z",
+      "notes": "I visit glass house here",
+      "position": {
+        "lat": "14.38887593714769",
+        "lng": "75.91768651556858"
+      }
+    },
+    {
+      "id": "745e",
+      "cityName": "Tchirozerine",
+      "country": "Niger (the)",
+      "emoji": "NE",
+      "date": "2024-10-12T17:10:57.356Z",
+      "notes": "",
+      "position": {
+        "lat": "17.348583629887504",
+        "lng": "9.867669450512679"
+      }
+    },
+    {
+      "id": "8adb",
+      "cityName": "Calnic",
+      "country": "Romania",
+      "emoji": "RO",
+      "date": "2024-10-12T17:11:23.781Z",
+      "notes": "",
+      "position": {
+        "lat": "45.88421544688686",
+        "lng": "23.63882741313587"
+      }
+    },
+    {
+      "id": "d7cf",
+      "cityName": "Eaubonne",
+      "country": "France",
+      "emoji": "FR",
+      "date": "2024-10-12T17:11:56.284Z",
+      "notes": "",
+      "position": {
+        "lat": "48.977899511816204",
+        "lng": "2.2873295803223086"
+      }
+    }
+  ]
+}
