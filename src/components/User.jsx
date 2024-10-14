@@ -9,13 +9,13 @@ function User() {
   const navigate = useNavigate();
   function handleClick() {
     logout();
-    navigate("https://anil-itagi.github.io/Worldwise_react_app/")
+    navigate("/")
   }
 
   function goToHome() {
-     navigate("https://anil-itagi.github.io/Worldwise_react_app/")
+     navigate("/")
   }
-  console.log(user);
+ 
   return (
     <div className={styles.user}>
       <img src={user.avatar} alt={user.name} />
