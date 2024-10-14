@@ -39,7 +39,7 @@ function App() {
           <Route path="form" element={ <Form/>} />
       </Route>
       <Route path="https://anil-itagi.github.io/Worldwise_react_app/" element={<Homepage />} />
-      <Route path="*" element={<PageNotFound />} />
+      <Route path="*" element={<Homepage />} />
       <Route path="login" element={<Login/>} />
     </Routes>
   </BrowserRouter>
