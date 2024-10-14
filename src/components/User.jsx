@@ -9,11 +9,11 @@ function User() {
   const navigate = useNavigate();
   function handleClick() {
     logout();
-    navigate("/")
+    navigate("https://anil-itagi.github.io/Worldwise_react_app/")
   }
 
   function goToHome() {
-     navigate("/")
+     navigate("https://anil-itagi.github.io/Worldwise_react_app/")
   }
   console.log(user);
   return (
