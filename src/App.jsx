@@ -38,7 +38,7 @@ function App() {
           <Route path="countries" element={<CountryList  />} />
           <Route path="form" element={ <Form/>} />
       </Route>
-      <Route path="/" element={<Homepage />} />
+      <Route path="/Worldwise_react_app/" element={<Homepage />} />
       <Route path="*" element={<PageNotFound />} />
       <Route path="login" element={<Login/>} />
     </Routes>
