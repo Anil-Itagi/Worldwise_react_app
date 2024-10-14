@@ -4,7 +4,7 @@ import {CitiesProvider } from "./contexts/CitiesContext";
 import Product from "./pages/Product";
 import Pricing from "./pages/Pricing";
 import Homepage from "./pages/Homepage";
-import PageNotFound from "./pages/PageNotFound";
+//import PageNotFound from "./pages/PageNotFound";
 import AppLayout from "./pages/AppLayout";
 import Login from "./pages/Login";
 import CityList from "./components/CityList";
